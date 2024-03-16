@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.16b9f65e.css",
+    "main.js": "/static/js/main.98f41d97.js",
+    "static/media/smartphone.jpg": "/static/media/smartphone.63eee34bae1ff572bd28.jpg",
+    "static/media/book.jpg": "/static/media/book.8b7b88b32dce8a011ce4.jpg",
+    "static/media/speaker.jpg": "/static/media/speaker.e5091a1daa8dbb6ac31e.jpg",
+    "index.html": "/index.html",
+    "main.16b9f65e.css.map": "/static/css/main.16b9f65e.css.map",
+    "main.98f41d97.js.map": "/static/js/main.98f41d97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16b9f65e.css",
+    "static/js/main.98f41d97.js"
+  ]
+}
